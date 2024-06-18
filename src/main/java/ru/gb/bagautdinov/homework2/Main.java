@@ -21,7 +21,7 @@ public class Main {
      //  isTheNumberPositive(15);
      //  System.out.println(isNegativeNumber((byte) 4));
      //  printTheStringTheSpecifiedNumberOfTimes("Hi", 5);
-        System.out.println(isItALeapYear(100));
+     //   System.out.println(isItALeapYear(100));
 
     }
 
